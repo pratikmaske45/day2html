@@ -1,2 +1,2 @@
 # day2html <br>
-performing lessons from super simple dev repository
+performing first four lessons from super simple dev repository
